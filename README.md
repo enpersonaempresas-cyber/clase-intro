@@ -1,0 +1,1 @@
+# 🚀 NextCollege Scaffold & Template Repository
